@@ -1,12 +1,13 @@
 ---
-title: "Post: Quote"
+title: "Michaux's recursive apple"
 categories:
   - Blog
 tags:
-  - Post Formats
+  - recursion
+  - michaux
   - quote
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> I put an apple on my table. Then I put myself inside this apple. What tranquility!
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a href="https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/original/3/3/2/002621332.pdf"> Henri Michaux, Misérable Miracle</a></cite>
