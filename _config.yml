@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "RecursionLab"
-  avatar : "/assets/images/RL.jpg"
+  avatar : "assets/images/recursion logo23.png"
   bio    : "RecursionLab is a full-fledged non-governmental laboratory dedicated to the recursive study of recursion. "
   links:
     - label: "Website"
