@@ -13,4 +13,4 @@ tags:
 
 ## Benjamin Efrati, Recursion Lab, 2021
 
-[Neanderthal Recursion](EFRATI - Stone Tools as Palaeolithic Central Unit Processors.pdf)
+![Neanderthal Recursion](EFRATI - Stone Tools as Palaeolithic Central Unit Processors.pdf)
