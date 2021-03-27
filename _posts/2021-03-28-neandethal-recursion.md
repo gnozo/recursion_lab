@@ -1,6 +1,6 @@
 ---
-title: "Excel"
-date: 2021-03-20-T15:34:30-04:00
+title: "Neanderthal Recursion"
+date: 2021-03-28-T00:00:30-04:00
 categories:
   - blog
 tags:
@@ -9,7 +9,7 @@ tags:
   - neanderthal
 ---
 
-# Stone Tools as Palaeolithic Central Unit Processors
+Stone Tools as Palaeolithic Central Unit Processors
 
 ## Benjamin Efrati, Recursion Lab, [SIGBOVIK 2021](http://sigbovik.org/2021/)
 
