@@ -1,5 +1,5 @@
 ---
-title: "Neanderthal Recursion"
+title: "Neanderthal Recursion: article submitted for SIGBOVIK 2021"
 date: 2021-03-28-T00:00:30-04:00
 categories:
   - blog
