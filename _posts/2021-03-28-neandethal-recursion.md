@@ -9,7 +9,7 @@ tags:
   - neanderthal
 ---
 
-## Stone Tools as Palaeolithic Central Processing Units
+## Stone Tools as Palaeolithic Central Processing Units (or Central Unit Processors)
 
 ### Benjamin Efrati, Recursion Lab, [SIGBOVIK 2021](http://sigbovik.org/2021/)
 
